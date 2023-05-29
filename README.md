@@ -20,3 +20,6 @@ Inference drawn by me:
 * Customers who have Cluster_Labels 2 have a higher volume of deals than other customers.
 * Customers who purchase from Cluster_Labels 2 frequently do so.
 * Customers with Cluster_Labels 0 are not recent buyers and are therefore of the least importance to the company.
+
+
+### Calculated the Regency, Frequency and Monetary of this Online Store Data
