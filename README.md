@@ -23,3 +23,10 @@ Inference drawn by me:
 
 
 ### Calculated the Regency, Frequency and Monetary of this Online Store Data
+
+### Output
+Recency	Frequency	Monetary
+Cluster			
+0	-0.67	0.90	0.95
+1	0.54	-0.72	-0.76
+
